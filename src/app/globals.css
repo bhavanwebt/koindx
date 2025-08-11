@@ -1224,7 +1224,9 @@ body {
         -webkit-box-pack: center;
         justify-content: center;
         -webkit-box-align: center;
+        margin-bottom: 22px;
         align-items: center
+        
     }
 
     .css-p12jf5 {
