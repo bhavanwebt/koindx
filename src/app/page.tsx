@@ -681,9 +681,9 @@ export default function Home() {
                   style={{display: "block"}}
                 >
                   <Image
-                    src={ig5}
+                    src={img1}
                     alt="KoinDX logo"
-                    style={{maxHeight: "36px", float: "left"}}
+                    style={{maxHeight: "46px", float: "left"}}
                     width={150}
                     height={40}
                   />
