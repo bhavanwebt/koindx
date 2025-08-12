@@ -1,5 +1,5 @@
 import Image from "next/image";
-import img1 from "./image/img1.svg"
+import img1 from "./image/KoinbxLogo.svg"
 import img2 from "./image/img2.png"
 import img3 from "./image/img3.svg"
 import img4 from './image/img4.svg'
@@ -64,7 +64,7 @@ export default function Home() {
                   <Image
                     src={img1}
                     alt="KoinDX logo"
-                    style={{maxHeight: "36px", float: "left"}}
+                    style={{maxHeight: "52px", float: "left"}}
                   />
                 </a>
               </div>
